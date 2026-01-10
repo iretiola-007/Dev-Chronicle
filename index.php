@@ -21,6 +21,8 @@
   <div id="entries"></div>
 
   <script src="script.js"></script>
+  <?php
+  ?>
 </body>
 </html>
 
